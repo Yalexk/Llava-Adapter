@@ -1,0 +1,8 @@
+torch
+transformers
+huggingface_hub
+python-dotenv
+pillow
+jupyterlab
+ipykernel
+ipywidgets
