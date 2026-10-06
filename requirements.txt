@@ -6,3 +6,4 @@ pillow
 jupyterlab
 ipykernel
 ipywidgets
+datasets
