@@ -7,3 +7,4 @@ jupyterlab
 ipykernel
 ipywidgets
 datasets
+peft
